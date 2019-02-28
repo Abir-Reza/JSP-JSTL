@@ -2,7 +2,7 @@
 
 <html>
 <head>
-<title>Insert title here</title>
+<title>Insert title here.</title>
 </head>
 <body>
 	<c:set var="stuff" value="<%=new java.util.Date()%>" />
